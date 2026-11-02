@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-02",
+  "description": "Versiones fijadas; descarga sin instalación. sha256 procede del digest publicado por GitHub cuando está disponible.",
+  "tools": [
+    {
+      "id": "rs-asio",
+      "group": "audio",
+      "repository": "mdias/rs_asio",
+      "version": "v0.7.5",
+      "asset": "release-0.7.5.zip",
+      "download_url": "https://github.com/mdias/rs_asio/releases/download/v0.7.5/release-0.7.5.zip",
+      "release_url": "https://github.com/mdias/rs_asio/releases/tag/v0.7.5",
+      "published_at": "2026-08-09T14:08:11Z",
+      "size": 342968,
+      "sha256": "067088514ab0778c2f5ba04b22f9ad8566724b8dc45a50dfbc69581f5797d319"
+    },
+    {
+      "id": "pipeasio-manager",
+      "group": "audio",
+      "repository": "M0n7y5/pipeasio",
+      "version": "v1.10.0",
+      "asset": "pipeasio-manager-v1.10.0-x86_64.AppImage",
+      "download_url": "https://github.com/M0n7y5/pipeasio/releases/download/v1.10.0/pipeasio-manager-v1.10.0-x86_64.AppImage",
+      "release_url": "https://github.com/M0n7y5/pipeasio/releases/tag/v1.10.0",
+      "published_at": "2026-09-29T20:30:13Z",
+      "size": 42279200,
+      "sha256": "cc48635112f1a4648afad936a489ae23e22cfe096da8261e15c629491fad29da"
+    },
+    {
+      "id": "rsmods",
+      "group": "play",
+      "repository": "Lovrom8/RSMods",
+      "version": "RSModsInstaller-v1.2.8.4_OnCommit",
+      "asset": "RS2014-Mod-Installer.exe",
+      "download_url": "https://github.com/Lovrom8/RSMods/releases/download/RSModsInstaller-v1.2.8.4_OnCommit/RS2014-Mod-Installer.exe",
+      "release_url": "https://github.com/Lovrom8/RSMods/releases/tag/RSModsInstaller-v1.2.8.4_OnCommit",
+      "published_at": "2026-08-15T21:16:58Z",
+      "size": 59456512,
+      "sha256": "416b19b0ad335a1b0fbefc5b8002fa4c968efbcffa051fc934fbbd7ad6427e03"
+    },
+    {
+      "id": "dlc-builder",
+      "group": "author",
+      "repository": "iminashi/Rocksmith2014.NET",
+      "version": "v3.5.0",
+      "asset": "DLCBuilder-linux-3.5.0.zip",
+      "download_url": "https://github.com/iminashi/Rocksmith2014.NET/releases/download/v3.5.0/DLCBuilder-linux-3.5.0.zip",
+      "release_url": "https://github.com/iminashi/Rocksmith2014.NET/releases/tag/v3.5.0",
+      "published_at": "2025-07-24T10:08:39Z",
+      "size": 62043413,
+      "sha256": "97568657e40690309c37ca9d17618ff156762b7effb0570ded15fb46a31a12cb"
+    },
+    {
+      "id": "rocksniffer",
+      "group": "dev",
+      "repository": "kokolihapihvi/RockSniffer",
+      "version": "v0.5.0",
+      "asset": "RockSniffer.0.5.0.zip",
+      "download_url": "https://github.com/kokolihapihvi/RockSniffer/releases/download/v0.5.0/RockSniffer.0.5.0.zip",
+      "release_url": "https://github.com/kokolihapihvi/RockSniffer/releases/tag/v0.5.0",
+      "published_at": "2024-11-09T15:53:40Z",
+      "size": 4322410,
+      "sha256": null
+    }
+  ]
+}
