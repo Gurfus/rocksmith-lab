@@ -10,6 +10,7 @@
 - [ ] Hacer funcionar la UM2 con una canción base.
 - [ ] Probar un CDLC de bajo.
 - [ ] Seleccionar canciones favoritas por afinación y dificultad.
+- [ ] Importar favoritas/playlists desde Exportify y buscar arreglos de bajo adecuados; ver [Spotify](docs/SPOTIFY.md).
 
 ## 2. Probar integración
 
@@ -18,6 +19,7 @@
 - [ ] Registrar eventos locales sin modificar perfiles del juego.
 - [x] Revisar funciones, manifiesto y licencia de rs-manager y documentación de RockSniffer/RSMods.
 - [ ] Validar en Linux y elegir módulos concretos que reutilizar.
+- [ ] Valorar un MCP local de Spotify para sincronización posterior al primer volcado.
 
 ## 3. Carrera mínima
 
