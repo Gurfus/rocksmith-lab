@@ -54,6 +54,26 @@ Comprobadas durante la investigación del 2 de noviembre de 2026. Las incidencia
 - Manual original de Ubisoft, modo Journey: https://static9.cdn.ubi.com/customersupportfaqfiles/archived/411188_X360_manual_ENG.pdf
 - Toolkit antiguo y transición a herramientas actuales: https://github.com/rscustom/rocksmith-custom-song-toolkit
 
-## Descargas reproducibles
+## Recursos gratuitos y adaptación de mods
+
+Consultados el 2026-11-02. Los recursos públicos enlazados no incluyen los cursos de pago de sus autores; no se ha probado cada reproductor o descarga.
+
+- BassBuzz, primera lección con pulsación, silencios y música: https://www.bassbuzz.com/lessons/first-bass-lesson
+- BassBuzz, distinción entre vídeos gratuitos y curso: https://www.bassbuzz.com/lessons
+- Ernesto Martín, vídeos gratuitos en español: https://debajoelectrico.com/videos/
+- TalkingBass, púa y riffs de práctica: https://www.talkingbass.net/bass-technique-pick-for-beginners/
+- TalkingBass, veinte riffs con vídeo y tablaturas visibles: https://www.talkingbass.net/top-20-bass-riffs-beginners/
+- StudyBass, dedos: https://www.studybass.com/lessons/bass-technique/plucking/
+- StudyBass, control de cuerdas abiertas: https://www.studybass.com/lessons/bass-technique/open-string-muting/
+- StudyBass, dedos y púa: https://www.studybass.com/lessons/bass-technique/pick-vs-fingers/
+- The Rhythm Trainer, juego gratuito de identificación rítmica: https://www.therhythmtrainer.com/
+- RSMods, funciones de la rama actual: https://github.com/Lovrom8/RSMods/blob/develop/README.md
+- rs-manager, funciones y plataformas: https://github.com/sandiz/rs-manager/blob/master/Readme.md
+- rs-manager, dependencias: https://github.com/sandiz/rs-manager/blob/master/package.json
+- rs-manager, licencia: https://github.com/sandiz/rs-manager/blob/master/LICENSE
+- RockSnifferLib, plataforma: https://github.com/kokolihapihvi/RockSnifferLib/blob/master/RockSnifferLib.csproj
+- RockSnifferLib, licencia: https://github.com/kokolihapihvi/RockSnifferLib/blob/master/LICENSE
+
+## Manifiesto de descargas
 
 Las URL exactas, versiones, tamaños y SHA-256 publicados por GitHub están en [catalog/tools.json](catalog/tools.json). Para RockSniffer no había digest publicado en la respuesta consultada: el descargador calcula uno local, pero eso no autentica por sí solo el origen.

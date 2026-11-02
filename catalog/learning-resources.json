@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-02",
+  "scope": "Recursos gratuitos seleccionados. Se ha consultado el contenido público de las páginas, no probado todos los reproductores, pistas o descargas.",
+  "resources": [
+    {
+      "id": "bassbuzz-first",
+      "title": "First Bass Lesson",
+      "provider": "BassBuzz",
+      "url": "https://www.bassbuzz.com/lessons/first-bass-lesson",
+      "language": "en",
+      "skills": [
+        "fingerstyle",
+        "muting",
+        "pulse"
+      ],
+      "access": "free_public",
+      "priority": "start",
+      "use": "Ir a Plucking, Muting y Groove; trae ejemplos para tocar con música. El curso Beginner to Badass es un producto distinto y no se incluye.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "ernesto-basics",
+      "title": "Vídeos de bajo: mano derecha y metrónomo",
+      "provider": "Ernesto Martín / DeBajoEléctrico",
+      "url": "https://debajoelectrico.com/videos/",
+      "language": "es",
+      "skills": [
+        "fingerstyle",
+        "pulse",
+        "fretting"
+      ],
+      "access": "free_public",
+      "priority": "start",
+      "use": "Vídeos gratuitos en orden. Con experiencia de guitarra, empezar por Mano Derecha y Cómo usar el Metrónomo; consultar mano izquierda si hace falta.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "talkingbass-pick",
+      "title": "Beginner Guide To Bass Pick Technique",
+      "provider": "TalkingBass / Mark Smith",
+      "url": "https://www.talkingbass.net/bass-technique-pick-for-beginners/",
+      "language": "en",
+      "skills": [
+        "pick",
+        "muting",
+        "string_crossing"
+      ],
+      "access": "free_public",
+      "priority": "start",
+      "use": "Agarre, ataque y palm mute, con cinco riffs y pistas de práctica. Ajustar tempo; no hace falta dominar los cinco para empezar.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "studybass-plucking",
+      "title": "Plucking",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/plucking/",
+      "language": "en",
+      "skills": [
+        "fingerstyle",
+        "muting"
+      ],
+      "access": "free_public",
+      "priority": "reference",
+      "use": "Referencia visual y escrita sobre alternar índice/medio, pulsación y silencio de cuerdas.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "studybass-muting",
+      "title": "Open-String Muting",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/open-string-muting/",
+      "language": "en",
+      "skills": [
+        "muting"
+      ],
+      "access": "free_public",
+      "priority": "reference",
+      "use": "Consultar cuando se mezclen cuerdas que deberían estar calladas; no requiere seguir todo el currículo.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "studybass-pick-or-fingers",
+      "title": "Pick vs Fingers",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/pick-vs-fingers/",
+      "language": "en",
+      "skills": [
+        "pick",
+        "fingerstyle"
+      ],
+      "access": "free_public",
+      "priority": "reference",
+      "use": "Comparar enfoques y elegir por sonido. Ambos son métodos válidos; la guía no impone una técnica a todas las canciones.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "talkingbass-riffs",
+      "title": "Top 20 MUST KNOW Bass Riffs For Beginners",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/top-20-bass-riffs-beginners/",
+      "language": "en",
+      "skills": [
+        "repertoire",
+        "pulse",
+        "string_crossing"
+      ],
+      "access": "free_public",
+      "priority": "optional",
+      "use": "Vídeo y tablaturas visibles por riff. Incluye Cream, Black Sabbath, Nirvana y Queen. No es una lista de canciones completas ni garantiza la disponibilidad de CDLC.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "rhythm-trainer",
+      "title": "The Rhythm Trainer",
+      "provider": "John Blank",
+      "url": "https://www.therhythmtrainer.com/",
+      "language": "en",
+      "skills": [
+        "rhythm_ear"
+      ],
+      "access": "free_public",
+      "priority": "optional",
+      "use": "Minijuego web de escucha e identificación rítmica. No analiza la señal del bajo ni mide tu ejecución en Rocksmith.",
+      "checked_at": "2026-11-02"
+    }
+  ]
+}

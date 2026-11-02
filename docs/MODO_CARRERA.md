@@ -2,6 +2,8 @@
 
 **Idea del usuario:** jugar canciones custom de los grupos que le gustan, con una progresión parecida a Guitar Hero: niveles, dificultad gradual, estrellas y desbloqueos. Es una propuesta para construir; aún no hay un mod funcional aquí.
 
+**Preferencias concretadas:** aprendizaje autodidacta, gratuito, divertido y basado en canciones; técnica de dedos y púa, ritmo y teoría solo cuando ayude. La progresión debe orientar sin impedir tocar favoritas. Recursos en [APRENDER_JUGANDO.md](APRENDER_JUGANDO.md) y opciones de integración en [ADAPTAR_MODS.md](ADAPTAR_MODS.md).
+
 ## Lo que ya existe
 
 - El Rocksmith original tenía Journey. Rocksmith 2014 ofrece otras actividades, incluido Score Attack; no equivale a aquella campaña.
@@ -12,9 +14,9 @@ No hemos identificado un producto terminado que reúna esta carrera, CDLC propio
 
 ## Primera versión que tendría sentido
 
-Aplicación local acompañante, inicialmente centrada en bajo. Importar unos **20 CDLC locales**, con dificultad y afinación revisadas manualmente, y agruparlos en cuatro capítulos: ensayo, primer bolo, gira y festival. Mantener un modo de práctica libre junto a los desbloqueos.
+Aplicación local acompañante, inicialmente centrada en bajo. Empezar con unas pocas canciones favoritas y ampliar a una selección de unos **20 CDLC locales**, con dificultad y afinación revisadas manualmente. Los capítulos —ensayo, primer bolo, gira y festival— pueden organizar objetivos e insignias, manteniendo siempre disponibles las favoritas.
 
-Ejemplo de regla **a probar**, no una exigencia musical validada: desbloquear el capítulo siguiente al superar 3 de 5 canciones con al menos 85 % en condiciones comparables. Las estrellas y los jefes de capítulo pueden venir después. No premiar simplemente tocar muchas veces un arreglo simplificado.
+Los retos cortos de [missions.example.json](../catalog/missions.example.json) vinculan canción, técnica y recurso gratuito. No se fija un umbral universal del 85 % ni se equiparan aciertos y buen ritmo. Dedos/púa y calidad musical se registran por autoevaluación; los datos del juego solo se usan si están verificados. Insignias y recomendaciones son opcionales y no bloquean canciones.
 
 ## Datos mínimos
 
