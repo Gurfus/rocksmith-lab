@@ -29,6 +29,7 @@ Las descargas quedan en `.downloads/`. El script comprueba tamaños y los SHA-25
 | Diseñar la carrera con canciones favoritas | [Modo carrera](docs/MODO_CARRERA.md) |
 | Elegir proyectos que adaptar y retos para la carrera | [Adaptar mods](docs/ADAPTAR_MODS.md) |
 | Evaluar fee[dB]ack y Virtuoso como plataforma alternativa | [Evaluación de fee[dB]ack](docs/FEEDBACK.md) |
+| Comparar Audio Bridge, QuickRS y sus opciones para ritmo | [Audio Bridge y QuickRS](docs/AUDIOBRIDGE_QUICKRS.md) |
 | Ver qué está confirmado y qué falta | [Estado](docs/ESTADO.md) y [roadmap](ROADMAP.md) |
 | Consultar las fuentes | [SOURCES.md](SOURCES.md) |
 
