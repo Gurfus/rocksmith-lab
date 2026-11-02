@@ -5,6 +5,7 @@
 - [x] Reunir investigación y fuentes.
 - [x] Fijar descargas oficiales y preparar un descargador sin instalación automática.
 - [x] Seleccionar recursos gratuitos de dedos, púa y ritmo y documentar retos cortos.
+- [x] Fijar una ruta inicial única y ordenada, con un paso actual y criterios de avance.
 - [ ] Registrar distro, Steam, Proton y licencia del juego.
 - [ ] Hacer funcionar la UM2 con una canción base.
 - [ ] Probar un CDLC de bajo.

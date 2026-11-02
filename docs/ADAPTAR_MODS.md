@@ -21,6 +21,8 @@ No hemos elegido un fork definitivo. rs-manager es el candidato más cercano por
 
 ## Progresión que encaja con el usuario
 
+El orden inicial está fijado en [learning-path.json](../catalog/learning-path.json) y explicado en [RUTA_INICIAL.md](RUTA_INICIAL.md). La futura interfaz debe mostrar un paso actual y **Continuar**, no empezar mostrando todo el catálogo de vídeos.
+
 1. Elegir una canción favorita o un fragmento motivador.
 2. Mostrar un único objetivo: dedos, púa, silencio, pulso o continuidad.
 3. Enlazar un recurso breve si hace falta.

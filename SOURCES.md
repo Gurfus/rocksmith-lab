@@ -74,6 +74,16 @@ Consultados el 2026-11-02. Los recursos públicos enlazados no incluyen los curs
 - RockSnifferLib, plataforma: https://github.com/kokolihapihvi/RockSnifferLib/blob/master/RockSnifferLib.csproj
 - RockSnifferLib, licencia: https://github.com/kokolihapihvi/RockSnifferLib/blob/master/LICENSE
 
-## Manifiesto de descargas
+## Ruta ordenada y experiencias de usuarios
+
+- Josh Fossgreen, rutina gratuita, materiales y recomendación de tener técnica básica antes: https://forum.bassbuzz.com/t/7-days-to-learning-bass-beginner-lesson/37824
+- BassBuzz, vídeo de la rutina: https://www.youtube.com/watch?v=2wNhCZdU7TQ
+- BassBuzz, acompañamientos de la rutina: https://soundcloud.com/bass_buzz/sets/7-days-to-bass
+- Reddit, recursos gratuitos y distinción frente a cursos de pago: https://www.reddit.com/r/Bass/comments/1uwr3ny/best_free_online_bass_lessons_for_a_complete/
+- Reddit, necesidad de un recorrido estructurado: https://www.reddit.com/r/Bass/comments/1wzvjik/absolute_beginner_looking_for_wellstructured/
+
+Consulta del 2026-11-02. Reddit aporta experiencias, no requisitos técnicos ni una demostración de eficacia. La selección y los criterios de avance son propios.
+
+## Versiones fijadas
 
 Las URL exactas, versiones, tamaños y SHA-256 publicados por GitHub están en [catalog/tools.json](catalog/tools.json). Para RockSniffer no había digest publicado en la respuesta consultada: el descargador calcula uno local, pero eso no autentica por sí solo el origen.

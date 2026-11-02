@@ -4,6 +4,8 @@ Preferencias confirmadas el 2026-11-02: aprendizaje autodidacta, experiencia pre
 
 ## Por dónde empezar
 
+Seguir primero la **[RUTA INICIAL](RUTA_INICIAL.md)**: manos → una rutina de ritmo → púa → canción favorita. El orden y los criterios están allí. Esta página y el catálogo sirven de consulta; no hace falta ver todos los recursos.
+
 Elegir una canción que apetezca y un fragmento asequible. Consultar una explicación corta de la técnica necesaria, probarla en el fragmento y seguir tocando. Si el arreglo entero es demasiado exigente, ese fragmento puede ser el objetivo del día.
 
 | Necesidad | Recurso gratuito | Cómo usarlo |

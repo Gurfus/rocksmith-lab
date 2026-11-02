@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "checked_at": "2026-11-02",
-  "scope": "Recursos gratuitos seleccionados. Se ha consultado el contenido público de las páginas, no probado todos los reproductores, pistas o descargas.",
+  "scope": "Catálogo de consulta. El orden de inicio está en learning-path.json; no hay que ver todos los recursos. Páginas públicas consultadas, sin probar todos los reproductores.",
   "resources": [
     {
       "id": "bassbuzz-first",
@@ -15,7 +15,7 @@
         "pulse"
       ],
       "access": "free_public",
-      "priority": "start",
+      "priority": "core_stage",
       "use": "Ir a Plucking, Muting y Groove; trae ejemplos para tocar con música. El curso Beginner to Badass es un producto distinto y no se incluye.",
       "checked_at": "2026-11-02"
     },
@@ -31,7 +31,7 @@
         "fretting"
       ],
       "access": "free_public",
-      "priority": "start",
+      "priority": "reference",
       "use": "Vídeos gratuitos en orden. Con experiencia de guitarra, empezar por Mano Derecha y Cómo usar el Metrónomo; consultar mano izquierda si hace falta.",
       "checked_at": "2026-11-02"
     },
@@ -47,7 +47,7 @@
         "string_crossing"
       ],
       "access": "free_public",
-      "priority": "start",
+      "priority": "core_stage",
       "use": "Agarre, ataque y palm mute, con cinco riffs y pistas de práctica. Ajustar tempo; no hace falta dominar los cinco para empezar.",
       "checked_at": "2026-11-02"
     },
@@ -107,7 +107,7 @@
         "string_crossing"
       ],
       "access": "free_public",
-      "priority": "optional",
+      "priority": "reference",
       "use": "Vídeo y tablaturas visibles por riff. Incluye Cream, Black Sabbath, Nirvana y Queen. No es una lista de canciones completas ni garantiza la disponibilidad de CDLC.",
       "checked_at": "2026-11-02"
     },
@@ -121,8 +121,27 @@
         "rhythm_ear"
       ],
       "access": "free_public",
-      "priority": "optional",
+      "priority": "reference",
       "use": "Minijuego web de escucha e identificación rítmica. No analiza la señal del bajo ni mide tu ejecución en Rocksmith.",
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "bassbuzz-seven-days",
+      "title": "7 Days to Learning Bass",
+      "provider": "BassBuzz / Josh Fossgreen",
+      "url": "https://www.youtube.com/watch?v=2wNhCZdU7TQ",
+      "materials_url": "https://forum.bassbuzz.com/t/7-days-to-learning-bass-beginner-lesson/37824",
+      "playalongs_url": "https://soundcloud.com/bass_buzz/sets/7-days-to-bass",
+      "language": "en",
+      "skills": [
+        "pulse",
+        "groove",
+        "fretting",
+        "roots_fifths"
+      ],
+      "access": "free_public",
+      "priority": "core_routine",
+      "use": "Seguir los siete bloques del mismo vídeo tras la base de manos. El autor recomienda tener técnica básica. No es el curso de pago ni un plazo obligatorio de siete días.",
       "checked_at": "2026-11-02"
     }
   ]

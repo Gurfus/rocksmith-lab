@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "bass-start-v1",
+  "status": "curated_plan_not_executable_mod",
+  "checked_at": "2026-11-02",
+  "current_stage_default": "hands",
+  "navigation": "show_current_stage_and_continue",
+  "favorite_songs_always_available": true,
+  "calendar_deadline": null,
+  "completion_source": "self_report_until_game_integration_verified",
+  "stages": [
+    {
+      "id": "hands",
+      "order": 1,
+      "title": "Manos",
+      "prerequisites": [],
+      "resource_ids": [
+        "bassbuzz-first"
+      ],
+      "focus": [
+        "Plucking",
+        "Fretting",
+        "Groove"
+      ],
+      "practice_goal": "Patrón corto con índice/medio y corte intencional de la nota.",
+      "self_check": "¿Puedo mantenerlo cómodamente 30–60 segundos con acompañamiento?",
+      "next_stage": "groove-routine"
+    },
+    {
+      "id": "groove-routine",
+      "order": 2,
+      "title": "Una rutina de ritmo",
+      "prerequisites": [
+        "hands"
+      ],
+      "resource_ids": [
+        "bassbuzz-seven-days"
+      ],
+      "source_block_count": 7,
+      "source_block_order": "follow_author_video",
+      "source_title_is_not_a_deadline": true,
+      "practice_goal": "Seguir los siete bloques del autor, repitiendo cada uno según haga falta; no abrir todos los complementos.",
+      "self_check": "¿Puedo repetir el patrón del bloque con acompañamiento y escuchar qué mejoraría?",
+      "next_stage": "pick"
+    },
+    {
+      "id": "pick",
+      "order": 3,
+      "title": "Púa",
+      "prerequisites": [
+        "hands",
+        "groove-routine"
+      ],
+      "resource_ids": [
+        "talkingbass-pick"
+      ],
+      "practice_goal": "Un solo riff y comparación con dedos; aplicar silenciamiento.",
+      "self_check": "¿Puedo tocar el fragmento con púa sin cuerdas sobrantes evidentes?",
+      "next_stage": "favorite-song"
+    },
+    {
+      "id": "favorite-song",
+      "order": 4,
+      "title": "Canción favorita",
+      "prerequisites": [
+        "hands",
+        "groove-routine",
+        "pick"
+      ],
+      "resource_ids": [],
+      "practice_goal": "Elegir un CDLC asequible y trabajar un objetivo por fragmento; unir secciones y probar una pasada completa.",
+      "self_check": "¿Puedo seguir y recuperar el pulso tras un error?",
+      "next_stage": null
+    }
+  ]
+}

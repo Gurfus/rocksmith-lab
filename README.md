@@ -23,6 +23,7 @@ Las descargas quedan en `.downloads/`. El script comprueba tamaños y los SHA-25
 | Conectar la UM2 y configurar Linux | [Guía Linux + UM2](docs/LINUX_UM2.md) |
 | Saber qué descargar y en qué orden | [Descargas](docs/DESCARGAS.md) |
 | Encontrar CDLC y herramientas de creación | [Comunidad](docs/COMUNIDAD.md) |
+| Seguir un orden corto y saber qué hacer ahora | [Ruta inicial](docs/RUTA_INICIAL.md) |
 | Aprender con recursos gratis, canciones y poca teoría | [Aprender jugando](docs/APRENDER_JUGANDO.md) |
 | Diseñar la carrera con canciones favoritas | [Modo carrera](docs/MODO_CARRERA.md) |
 | Elegir proyectos que adaptar y retos para la carrera | [Adaptar mods](docs/ADAPTAR_MODS.md) |
