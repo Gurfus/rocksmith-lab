@@ -14,6 +14,7 @@
 
 ## 2. Probar integración
 
+- [ ] Probar [fee[dB]ack + Virtuoso](docs/FEEDBACK.md) con UM2 en Linux y comparar audio, práctica y eventos antes de elegir plataforma.
 - [ ] Leer canción, arreglo e intento finalizado bajo Proton.
 - [ ] Distinguir abandono, repetición y resultado histórico.
 - [ ] Registrar eventos locales sin modificar perfiles del juego.

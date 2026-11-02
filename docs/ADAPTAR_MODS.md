@@ -15,6 +15,8 @@ RSMods no mostró un archivo de licencia en la raíz consultada. La ruta inicial
 
 ## Decisión provisional
 
+Nuevo candidato aportado por el usuario: [fee[dB]ack y Virtuoso](FEEDBACK.md), con plataforma de plugins y eventos propios. Hacer una prueba de audio y resultados antes de elegir entre ese plugin y el acompañante de Rocksmith.
+
 Un acompañante local pequeño puede añadir la guía que falta: elegir canción, recomendar un reto, abrir un recurso gratuito y conservar progreso. RSMods se encarga de funciones que ya implementa dentro del juego.
 
 No hemos elegido un fork definitivo. rs-manager es el candidato más cercano por funciones, pero un port completo puede costar más que una capa pequeña. Primero probar la integración de lectura; después decidir con evidencia. No instalar dependencias de esos proyectos ni modificar el perfil del juego para esta investigación.
