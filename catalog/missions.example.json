@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "status": "design_example_not_a_working_mod",
+  "defaults": {
+    "instrument": "bass",
+    "favorite_songs_always_available": true,
+    "automatic_timing_assessment": false,
+    "technique_detection": "self_report",
+    "progress_storage": "local_companion_only"
+  },
+  "missions": [
+    {
+      "id": "compare-hands",
+      "title": "El mismo riff con dos sonidos",
+      "skills": [
+        "fingerstyle",
+        "pick"
+      ],
+      "resource_ids": [
+        "bassbuzz-first",
+        "talkingbass-pick"
+      ],
+      "song_selection": "favorite_local_arrangement",
+      "instructions": "Elegir un fragmento sencillo y tocar 30 segundos con dedos y 30 con púa. Escuchar el cambio de ataque y decidir cuál apetece usar.",
+      "evidence": {
+        "type": "self_report",
+        "questions": [
+          "¿Qué técnica he usado?",
+          "¿Qué sonido me gusta más para este riff?"
+        ]
+      },
+      "unlock": "optional_badge"
+    },
+    {
+      "id": "clean-break",
+      "title": "Que los silencios suenen",
+      "skills": [
+        "muting",
+        "pulse"
+      ],
+      "resource_ids": [
+        "studybass-muting"
+      ],
+      "song_selection": "favorite_local_arrangement",
+      "instructions": "Repetir dos compases con una pausa clara, apagando la nota a propósito. Tocar primero con la grabación y luego escucharse solo.",
+      "evidence": {
+        "type": "self_report",
+        "questions": [
+          "¿Se apagan las cuerdas que no estoy tocando?",
+          "¿La pausa se mantiene al repetir?"
+        ]
+      },
+      "unlock": "optional_badge"
+    },
+    {
+      "id": "stay-with-drums",
+      "title": "Aguantar el groove",
+      "skills": [
+        "pulse"
+      ],
+      "resource_ids": [
+        "ernesto-basics"
+      ],
+      "song_selection": "favorite_local_arrangement",
+      "instructions": "Un minuto de un patrón asequible con batería o canción, escuchando el bombo y manteniendo el pulso al cambiar de nota.",
+      "evidence": {
+        "type": "self_report",
+        "questions": [
+          "¿He mantenido el pulso al cambiar de nota?",
+          "¿He seguido después de un fallo?"
+        ]
+      },
+      "unlock": "optional_badge"
+    },
+    {
+      "id": "finish-song",
+      "title": "Primer bolo",
+      "skills": [
+        "continuity"
+      ],
+      "resource_ids": [],
+      "song_selection": "favorite_local_arrangement",
+      "instructions": "Tocar una canción asequible hasta el final sin reiniciarla por cada error.",
+      "evidence": {
+        "type": "game_event_if_verified_else_self_report",
+        "required_fields_if_automatic": [
+          "arrangement_id",
+          "attempt_id",
+          "finished"
+        ],
+        "note": "Integración con RockSniffer bajo Proton pendiente. El porcentaje de notas no certifica groove."
+      },
+      "unlock": "optional_chapter_recommendation"
+    }
+  ]
+}

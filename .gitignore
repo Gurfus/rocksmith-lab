@@ -1,0 +1,17 @@
+.downloads/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+local/
+userdata/
+steamapps/
+*.psarc
+*.dll
+*.exe
+*.AppImage
+*.wav
+*.ogg
+*.wem
+*.zip

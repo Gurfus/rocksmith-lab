@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "note": "Candidatos para búsqueda manual, no archivos descargados ni dificultad comprobada.",
+  "songs": [
+    {
+      "artist": "Gloryhammer",
+      "title": "Hootsforce",
+      "arrangement": "bass",
+      "local_path": null,
+      "tuning": null,
+      "difficulty": null,
+      "difficulty_source": null,
+      "verified": false
+    },
+    {
+      "artist": "Alestorm",
+      "title": "Drink",
+      "arrangement": "bass",
+      "local_path": null,
+      "tuning": null,
+      "difficulty": null,
+      "difficulty_source": null,
+      "verified": false
+    }
+  ],
+  "other_artists_to_search": [
+    "Metallica",
+    "Red Hot Chili Peppers"
+  ]
+}
