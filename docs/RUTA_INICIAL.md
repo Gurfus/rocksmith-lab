@@ -46,6 +46,8 @@ Todavía no se ha elegido ni verificado el primer CDLC del usuario. No asignamos
 
 **Prueba de progreso:** unir dos secciones y después intentar acabar una canción sin reiniciar por cada fallo. Separar la parte guiada de la pasada libre.
 
+Tras revisar [experiencias de otros bajistas](EXPERIENCIAS_REDDIT.md) el 2026-11-03, añadir tres comprobaciones breves: tocar el fragmento seguido, escucharse manteniendo el pulso y repetir unos compases mirando fuera de la pantalla. Son autoevaluaciones, no métricas que Rocksmith haya certificado. Mantener las favoritas disponibles y un rato libre para disfrutar.
+
 ## Regla para no perderse
 
 Abrir el siguiente bloque solo cuando toque trabajarlo. El resto del [catálogo](../catalog/learning-resources.json) queda como consulta ante un problema concreto. No hay que consumirlo entero.

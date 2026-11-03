@@ -6,6 +6,7 @@
 - [x] Fijar descargas oficiales y preparar un descargador sin instalación automática.
 - [x] Seleccionar recursos gratuitos de dedos, púa y ritmo y documentar retos cortos.
 - [x] Fijar una ruta inicial única y ordenada, con un paso actual y criterios de avance.
+- [x] Registrar [experiencias de bajistas en Reddit](docs/EXPERIENCIAS_REDDIT.md) y priorizar Rocksmith con favoritas, autoescucha y pulso.
 - [ ] Registrar distro, Steam, Proton y licencia del juego.
 - [ ] Hacer funcionar la UM2 con una canción base.
 - [ ] Probar un CDLC de bajo.
@@ -14,17 +15,18 @@
 
 ## 2. Probar integración
 
-- [ ] Probar [fee[dB]ack + Virtuoso](docs/FEEDBACK.md) con UM2 en Linux y comparar audio, práctica y eventos antes de elegir plataforma.
-- [ ] Evaluar [QuickRS](docs/AUDIOBRIDGE_QUICKRS.md): compilación Linux, una toma de bajo y salida JSON de su CLI; no adoptar antes de probarlo.
 - [ ] Leer canción, arreglo e intento finalizado bajo Proton.
 - [ ] Distinguir abandono, repetición y resultado histórico.
 - [ ] Registrar eventos locales sin modificar perfiles del juego.
 - [x] Revisar funciones, manifiesto y licencia de rs-manager y documentación de RockSniffer/RSMods.
 - [ ] Validar en Linux y elegir módulos concretos que reutilizar.
 - [ ] Valorar un MCP local de Spotify para sincronización posterior al primer volcado.
+- [ ] Experimento opcional posterior: probar [fee[dB]ack + Virtuoso](docs/FEEDBACK.md) con UM2 en Linux como alternativa, sin condicionar empezar con Rocksmith.
+- [ ] Experimento opcional posterior: evaluar [QuickRS](docs/AUDIOBRIDGE_QUICKRS.md), compilación Linux, toma de bajo y salida JSON; validar sus resultados antes de usarlos para evaluar ritmo.
 
 ## 3. Carrera mínima
 
+- [ ] Ensayar manualmente una guía con tres favoritas: un objetivo, un fragmento y autoevaluaciones de continuidad, pulso e independencia visual.
 - [ ] Curar 20 canciones y cuatro capítulos.
 - [ ] Definir reglas comparables por instrumento y nivel de notas.
 - [ ] Progreso, estrellas y desbloqueos locales.

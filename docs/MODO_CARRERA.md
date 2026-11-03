@@ -18,6 +18,8 @@ Aplicación local acompañante, inicialmente centrada en bajo. Empezar con unas 
 
 Los retos cortos de [missions.example.json](../catalog/missions.example.json) vinculan canción, técnica y recurso gratuito. No se fija un umbral universal del 85 % ni se equiparan aciertos y buen ritmo. Dedos/púa y calidad musical se registran por autoevaluación; los datos del juego solo se usan si están verificados. Insignias y recomendaciones son opcionales y no bloquean canciones.
 
+Decisión del 2026-11-03: empezar con Rocksmith y ensayar manualmente tres favoritas antes de ampliar la campaña. El acompañante debe orientar qué practicar hoy y registrar continuidad, autoescucha del pulso e independencia visual como autoevaluaciones separadas del marcador. Las [experiencias de Reddit y sus límites](EXPERIENCIAS_REDDIT.md) explican este criterio.
+
 ## Datos mínimos
 
 | Entidad | Campos |

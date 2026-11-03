@@ -56,7 +56,7 @@ La documentación del detector explica la relación entre tamaño de ventana y n
 
 ## Decisión provisional para el proyecto
 
-**Propuesta propia:** fee[dB]ack pasa a ser un candidato prioritario para una prueba técnica. Si su audio, detector y contenido funcionan bien, un plugin pequeño podría presentar nuestra ruta, enlazar recursos y sugerir retos entre canciones favoritas, reutilizando Virtuoso y el historial existentes.
+**Actualización del 2026-11-03:** la ruta principal de aprendizaje es Rocksmith 2014 con favoritas y guía corta; ver [decisión y experiencias](EXPERIENCIAS_REDDIT.md). fee[dB]ack queda como alternativa y experimento técnico posterior. Si su audio, detector y contenido funcionan bien, un plugin pequeño podría presentar nuestra ruta, enlazar recursos y sugerir retos entre canciones favoritas, reutilizando Virtuoso y el historial existentes.
 
 El complemento mostraría un paso actual y Continuar, mantendría las canciones disponibles y conservaría los datos personales localmente. Dedos/púa usados seguirían siendo una elección manual: mostrar letras o golpes sugeridos no demuestra reconocer cómo toca la persona.
 

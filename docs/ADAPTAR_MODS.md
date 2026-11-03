@@ -15,9 +15,9 @@ RSMods no mostró un archivo de licencia en la raíz consultada. La ruta inicial
 
 ## Decisión provisional
 
-Nuevo candidato aportado por el usuario: [fee[dB]ack y Virtuoso](FEEDBACK.md), con plataforma de plugins y eventos propios. Hacer una prueba de audio y resultados antes de elegir entre ese plugin y el acompañante de Rocksmith.
+Actualización del 2026-11-03: [priorizar Rocksmith para aprender](EXPERIENCIAS_REDDIT.md) con favoritas y una guía corta. Probar audio y lectura bajo Proton antes de implementar su acompañante. [fee[dB]ack y Virtuoso](FEEDBACK.md), con plugins y eventos propios, quedan como alternativa y experimento posterior.
 
-Revisados también [Audio Bridge y QuickRS](AUDIOBRIDGE_QUICKRS.md). El primero documenta requisitos Windows; QuickRS ofrece análisis local de tomas y CLI JSON, con port Linux y precisión en bajo por validar. Mantener fee[dB]ack como primera prueba nativa y registrar QuickRS como posible módulo de análisis.
+Revisados también [Audio Bridge y QuickRS](AUDIOBRIDGE_QUICKRS.md). El primero documenta requisitos Windows; QuickRS ofrece análisis local de tomas y CLI JSON, con port Linux y precisión en bajo por validar. Son opciones posteriores; no se añaden como requisitos para empezar a tocar con Rocksmith.
 
 Un acompañante local pequeño puede añadir la guía que falta: elegir canción, recomendar un reto, abrir un recurso gratuito y conservar progreso. RSMods se encarga de funciones que ya implementa dentro del juego.
 

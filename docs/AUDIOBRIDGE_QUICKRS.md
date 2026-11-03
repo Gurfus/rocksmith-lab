@@ -8,7 +8,9 @@ Revisión del 2026-11-02 de los tres enlaces aportados por el usuario. Investiga
 | --- | --- | --- |
 | Rocksmith Audio Bridge | Mejoras dentro de Rocksmith, grabación, transposición y práctica nota a nota. Incluye RSMods. | Requisitos publicados de Windows; no se ha verificado bajo Proton. Bajo experimental en Note by Note. No añadirlo como requisito inicial. |
 | QuickRS 0.3.0 | Reproductor autónomo, bucles y revisión de una pasada por notas y compases. Código Rust/MIT. | Descargas publicadas para Windows/macOS. El código contempla un backend de sistema mediante CPAL para Linux, pero no se ha compilado ni probado aquí. El autor reconoce carencias en bajo. |
-| fee[dB]ack + Virtuoso | Plataforma extensible y práctica progresiva de bajo/ritmo. | Mantener como primera prueba nativa de Linux, según [la evaluación previa](FEEDBACK.md). Su resultado real decidirá si lo adoptamos. |
+| fee[dB]ack + Virtuoso | Plataforma extensible y práctica progresiva de bajo/ritmo. | Alternativa nativa para una prueba posterior, según [la evaluación previa](FEEDBACK.md); audio y resultados pendientes de validar. |
+
+Actualización del 2026-11-03: [Rocksmith 2014 con favoritas y guía corta](EXPERIENCIAS_REDDIT.md) es la ruta principal de aprendizaje. Estas herramientas se conservan como mejoras opcionales, alternativas o candidatos de desarrollo.
 
 No sumar estas herramientas como instalaciones obligatorias. Para aprender se conserva la [ruta inicial](RUTA_INICIAL.md). Para desarrollo, probar una base y un resultado real antes de escribir una interfaz.
 

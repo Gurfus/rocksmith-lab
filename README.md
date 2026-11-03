@@ -2,7 +2,9 @@
 
 Investigación y preparación de **Rocksmith 2014 Remastered en Linux**, con **Behringer U-Phoria UM2**, canciones custom y un posible modo carrera con progresión tipo Guitar Hero.
 
-Estado: **2 de noviembre de 2026**. Hay documentación, un descargador y una propuesta de desarrollo. La integración con el juego y el audio en el equipo del usuario siguen pendientes de prueba.
+Estado: **3 de noviembre de 2026**. Hay documentación, un descargador y una propuesta de desarrollo. La integración con el juego y el audio en el equipo del usuario siguen pendientes de prueba.
+
+Ruta principal para aprender: **Rocksmith 2014 + canciones custom seleccionadas + guía corta de práctica**. Las otras plataformas quedan como alternativas o experimentos de desarrollo, según la [decisión y experiencias de usuarios](docs/EXPERIENCIAS_REDDIT.md).
 
 ## Empezar
 
@@ -24,6 +26,7 @@ Las descargas quedan en `.downloads/`. El script comprueba tamaños y los SHA-25
 | Saber qué descargar y en qué orden | [Descargas](docs/DESCARGAS.md) |
 | Encontrar CDLC y herramientas de creación | [Comunidad](docs/COMUNIDAD.md) |
 | Seguir un orden corto y saber qué hacer ahora | [Ruta inicial](docs/RUTA_INICIAL.md) |
+| Ver experiencias aprendiendo bajo y cómo las aplicaremos | [Reddit y decisión de aprendizaje](docs/EXPERIENCIAS_REDDIT.md) |
 | Usar mis favoritas de Spotify como repertorio | [Volcado de Spotify y futuro MCP](docs/SPOTIFY.md) |
 | Aprender con recursos gratis, canciones y poca teoría | [Aprender jugando](docs/APRENDER_JUGANDO.md) |
 | Diseñar la carrera con canciones favoritas | [Modo carrera](docs/MODO_CARRERA.md) |
